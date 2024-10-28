@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ymknlib_Waveshare_RP2040-Zero")(type "KiCad")(uri "${KIPRJMOD}/../lib/external/ymknlibs/MCU/ymknlib_Waveshare_RP2040-Zero.pretty")(options "")(descr ""))
+)

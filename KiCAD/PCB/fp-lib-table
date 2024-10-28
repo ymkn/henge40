@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ymknlib_Waveshare_RP2040-Zero")(type "KiCad")(uri "${KIPRJMOD}/../lib/external/ymknlibs/MCU/ymknlib_Waveshare_RP2040-Zero.pretty")(options "")(descr ""))
+  (lib (name "ymknlogo")(type "KiCad")(uri "${KIPRJMOD}/../lib/external/ymknlogo")(options "")(descr ""))
+  (lib (name "ymknlib_Various")(type "KiCad")(uri "${KIPRJMOD}/../lib/external/ymknlibs/Various/ymknlib_Various.pretty")(options "")(descr ""))
+  (lib (name "henge40_logo")(type "KiCad")(uri "${KIPRJMOD}/../lib/henge40_logo")(options "")(descr ""))
+)
