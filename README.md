@@ -1,12 +1,12 @@
-# Slab40
+# Henge40
 
 A 40% size compact keyboard with a low-staggered layout and split spacebar.
 
-![Slab40 real image](image/slab40-real.jpg)
+![Henge40 real image](image/henge40-real.jpg)
 
 ## Default Layout
 
-![Slab40 layouts](image/slab40-layout.png)
+![Henge40 layouts](image/henge40-layout.png)
 
 You can also customize the layout using [Vial](https://get.vial.today/).
 
