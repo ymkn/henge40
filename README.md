@@ -1,8 +1,10 @@
 # Henge40
 
-A 40% size compact keyboard with a low-staggered layout and split spacebar.
+A compact 40% keyboard with 12-column row staggered layout in 12.75u width.
 
 ![Henge40 real image](image/henge40-real.jpg)
+
+This keyboard was inspired by [Menhir](https://fruitykeeb.xyz/collections/menhir-collection/products/gb-menhir).
 
 ## Default Layout
 
