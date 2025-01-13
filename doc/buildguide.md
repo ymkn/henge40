@@ -220,13 +220,15 @@ https://github.com/ymkn/henge40
 
 ### 6.3 ファームウェアの書き込み
 
-何らかの理由でファームウェアを書き込み直した場合は下記からファームウェアをダウンロードしてください。
+何らかの理由でファームウェアを書き込み直したい場合は下記からファームウェアをダウンロードしてください。
 
 https://github.com/ymkn/henge40/releases/download/v1.0/ymkn_Henge40_vial.uf2
 
 ### 6.4 お問い合わせ先
 
-Henge40キットに関わるご質問はご購入されたアカウントにてログイン後、[BOOTHのメッセージ欄](https://ymkn.booth.pm/conversations)までお願いいたします。
+Henge40キットに関わるご質問はご購入されたアカウントにてログイン後、[BOOTH](https://ymkn.booth.pm/)のメッセージ欄までお願いいたします。
+
+![BOOTHメッセージ欄](../image/booth-message.png)
 
 キーケット等で直接購入された方でBOOTHのアカウントをお持ちでない場合は、私のTwitterアカウント[@ymkn_gbf](https://x.com/ymkn_gbf)でも受け付けます。メンションもしくはDMをください。
 
